@@ -54,35 +54,34 @@ In our above example suppose operating frequency is 9GHZ λ0=3.33CM.where c is v
 7.	convert g into dB in above exampleG dB =10LOG318=15.02DB
 8.	the same setup can be used for other frequency of operation.
 
-**BLOCK DIAGRAM:**
+BLOCK DIAGRAM:
 
-<img width="638" height="177" alt="image" src="https://github.com/user-attachments/assets/0e3f554a-c54b-42a4-bc48-1c3b3dd5f5fc" />
+<img width="638" height="177" alt="image" src="https://github.com/user-attachments/assets/d25030b2-8e43-422c-baa2-5a5f2d007a41" />
 
-**TABULATION:** 
+TABULATION:
 
-**HORN ANTENNA** 
+HORN ANTENNA
 
-Beam voltage	:
+Beam voltage : 8 V
 
-Beam current	 :
+Beam current : 24.5 mA
 
-**PARABOLICANTENNA**
+PARABOLICANTENNA
 
-Beam voltage	:
+Beam voltage : 235 V
 
-Beam current	 :
+Beam current : 164 V
 
-Repeller voltage :
+Repeller voltage : 42 V
 
-	V1 : 
+<img width="1035" height="1280" alt="image" src="https://github.com/user-attachments/assets/041bb122-08ad-4a2e-bdf3-44877b0e42ba" />
+<img width="897" height="1280" alt="image" src="https://github.com/user-attachments/assets/bdfbdd6e-e486-4a16-9215-14ea5e69d31b" />
 
-**RESULT:**
+RESULT:
 
 Thus the polar pattern and the gain of a waveguide horn antenna and parabolicantenna was measured and plotted.
 
-Beamwidth of horn antenna :
+Beamwidth of horn antenna : 22°
 
-Beamwidth of parabolic antenna:		
-
-
+Beamwidth of parabolic antenna: 20°
 
